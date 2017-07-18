@@ -1,0 +1,441 @@
+StartGame {startOptions}
+StartGame {startOptions} please
+CorrectPath {selectPathOptions}
+CorrectPath {selectPathOptions} Path
+CorrectPath go {selectPathOptions}
+CorrectPath turn {selectPathOptions}
+CorrectPath go {selectPathOptions}
+CorrectPath turn {selectPathOptions}
+CorrectPath move {selectPathOptions}
+CorrectPath aisle go {selectPathOptions}
+CorrectPath {selectPathOptions} please
+CorrectPath {selectPathOptions} side
+CorrectPath the {selectPathOptions} one
+CorrectPath i think {selectPathOptions}
+CorrectPath {selectPathOptions} maybe
+CorrectPath let me think {selectPathOptions}
+CorrectPath take the {selectPathOptions} path
+CorrectPath walk to the {selectPathOptions} Path
+CorrectPath	straight
+CorrectPath	round path
+CorrectPath middle path
+MovePersonIntent Move person out of the sun
+MovePersonIntent Move casualty out of the sun
+MovePersonIntent Move friend out of the sun
+MovePersonIntent Move them out of the sun
+MovePersonIntent Move the person out of the sun
+MovePersonIntent Move the casualty out of the sun
+MovePersonIntent Move the friend out of the sun
+MovePersonIntent Move my friend out of the sun
+MovePersonIntent Move casualty
+MovePersonIntent Move person
+MovePersonIntent Move friend
+MovePersonIntent Move them
+MovePersonIntent Move into shade
+MovePersonIntent Move to shade
+MovePersonIntent Move person into shade
+MovePersonIntent Move casualty into shade
+MovePersonIntent Move friend into shade
+MovePersonIntent Move them into shade
+MovePersonIntent Move the person into shade
+MovePersonIntent Move the casualty into shade
+MovePersonIntent Move the friend into the shade
+MovePersonIntent Move my friend into the shade
+MovePersonIntent Move into the shade
+MovePersonIntent Move person into the shade
+MovePersonIntent Move casualty into the shade
+MovePersonIntent Move friend into the shade
+MovePersonIntent Move them into the shade
+MovePersonIntent Move the person into the shade
+MovePersonIntent Move the casualty into the shade
+MovePersonIntent Move the friend into the shade
+MovePersonIntent Move my friend into the shade
+MovePersonIntent pull person out of the sun
+MovePersonIntent pull casualty out of the sun
+MovePersonIntent pull friend out of the sun
+MovePersonIntent pull them out of the sun
+MovePersonIntent pull the person out of the sun
+MovePersonIntent pull the casualty out of the sun
+MovePersonIntent pull the friend out of the sun
+MovePersonIntent pull my friend out of the sun
+MovePersonIntent pull casualty
+MovePersonIntent pull person
+MovePersonIntent pull friend
+MovePersonIntent pull them
+MovePersonIntent pull into shade
+MovePersonIntent pull person into shade
+MovePersonIntent pull casualty into shade
+MovePersonIntent pull friend into shade
+MovePersonIntent pull them into shade
+MovePersonIntent pull the person into shade
+MovePersonIntent pull the casualty into shade
+MovePersonIntent pull the friend into the shade
+MovePersonIntent pull my friend into the shade
+MovePersonIntent pull into the shade
+MovePersonIntent pull person into the shade
+MovePersonIntent pull casualty into the shade
+MovePersonIntent pull friend into the shade
+MovePersonIntent pull them into the shade
+MovePersonIntent pull the person into the shade
+MovePersonIntent pull the casualty into the shade
+MovePersonIntent pull the friend into the shade
+MovePersonIntent pull my friend into the shade
+MovePersonIntent carry person out of the sun
+MovePersonIntent carry casualty out of the sun
+MovePersonIntent carry friend out of the sun
+MovePersonIntent carry them out of the sun
+MovePersonIntent carry the person out of the sun
+MovePersonIntent carry the casualty out of the sun
+MovePersonIntent carry the friend out of the sun
+MovePersonIntent carry my friend out of the sun
+MovePersonIntent carry casualty
+MovePersonIntent carry person
+MovePersonIntent carry friend
+MovePersonIntent carry them
+MovePersonIntent carry into shade
+MovePersonIntent carry person into shade
+MovePersonIntent carry casualty into shade
+MovePersonIntent carry friend into shade
+MovePersonIntent carry them into shade
+MovePersonIntent carry the person into shade
+MovePersonIntent carry the casualty into shade
+MovePersonIntent carry the friend into the shade
+MovePersonIntent carry my friend into the shade
+MovePersonIntent carry into the shade
+MovePersonIntent carry person into the shade
+MovePersonIntent carry casualty into the shade
+MovePersonIntent carry friend into the shade
+MovePersonIntent carry them into the shade
+MovePersonIntent carry the person into the shade
+MovePersonIntent carry the casualty into the shade
+MovePersonIntent carry the friend into the shade
+MovePersonIntent carry my friend into the shade
+MovePersonIntent drag person out of the sun
+MovePersonIntent drag casualty out of the sun
+MovePersonIntent drag friend out of the sun
+MovePersonIntent drag them out of the sun
+MovePersonIntent drag the person out of the sun
+MovePersonIntent drag the casualty out of the sun
+MovePersonIntent drag the friend out of the sun
+MovePersonIntent drag my friend out of the sun
+MovePersonIntent drag casualty
+MovePersonIntent drag person
+MovePersonIntent drag friend
+MovePersonIntent drag them
+MovePersonIntent drag into shade
+MovePersonIntent drag person into shade
+MovePersonIntent drag casualty into shade
+MovePersonIntent drag friend into shade
+MovePersonIntent drag them into shade
+MovePersonIntent drag the person into shade
+MovePersonIntent drag the casualty into shade
+MovePersonIntent drag the friend into the shade
+MovePersonIntent drag my friend into the shade
+MovePersonIntent drag into the shade
+MovePersonIntent drag person into the shade
+MovePersonIntent drag casualty into the shade
+MovePersonIntent drag friend into the shade
+MovePersonIntent drag them into the shade
+MovePersonIntent drag the person into the shade
+MovePersonIntent drag the casualty into the shade
+MovePersonIntent drag the friend into the shade
+MovePersonIntent drag my friend into the shade
+MovePersonIntent take person out of the sun
+MovePersonIntent take casualty out of the sun
+MovePersonIntent take friend out of the sun
+MovePersonIntent take them out of the sun
+MovePersonIntent take the person out of the sun
+MovePersonIntent take the casualty out of the sun
+MovePersonIntent take the friend out of the sun
+MovePersonIntent take my friend out of the sun
+MovePersonIntent take into shade
+MovePersonIntent take person into shade
+MovePersonIntent take casualty into shade
+MovePersonIntent take friend into shade
+MovePersonIntent take them into shade
+MovePersonIntent take the person into shade
+MovePersonIntent take the casualty into shade
+MovePersonIntent take the friend into the shade
+MovePersonIntent take my friend into the shade
+MovePersonIntent take into the shade
+MovePersonIntent take person into the shade
+MovePersonIntent take casualty into the shade
+MovePersonIntent take friend into the shade
+MovePersonIntent take them into the shade
+MovePersonIntent take the person into the shade
+MovePersonIntent take the casualty into the shade
+MovePersonIntent take the friend into the shade
+MovePersonIntent take my friend into the shade
+MovePersonIntent bring person out of the sun
+MovePersonIntent bring casualty out of the sun
+MovePersonIntent bring friend out of the sun
+MovePersonIntent bring them out of the sun
+MovePersonIntent bring the person out of the sun
+MovePersonIntent bring the casualty out of the sun
+MovePersonIntent bring the friend out of the sun
+MovePersonIntent bring my friend out of the sun
+MovePersonIntent bring into shade
+MovePersonIntent bring person into shade
+MovePersonIntent bring casualty into shade
+MovePersonIntent bring friend into shade
+MovePersonIntent bring them into shade
+MovePersonIntent bring the person into shade
+MovePersonIntent bring the casualty into shade
+MovePersonIntent bring the friend into the shade
+MovePersonIntent bring my friend into the shade
+MovePersonIntent bring into the shade
+MovePersonIntent bring person into the shade
+MovePersonIntent bring casualty into the shade
+MovePersonIntent bring friend into the shade
+MovePersonIntent bring them into the shade
+MovePersonIntent bring the person into the shade
+MovePersonIntent bring the casualty into the shade
+MovePersonIntent bring the friend into the shade
+MovePersonIntent bring my friend into the shade
+MovePersonIntent lift person out of the sun
+MovePersonIntent lift casualty out of the sun
+MovePersonIntent lift friend out of the sun
+MovePersonIntent lift them out of the sun
+MovePersonIntent lift the person out of the sun
+MovePersonIntent lift the casualty out of the sun
+MovePersonIntent lift the friend out of the sun
+MovePersonIntent lift my friend out of the sun
+MovePersonIntent lift into shade
+MovePersonIntent lift person into shade
+MovePersonIntent lift casualty into shade
+MovePersonIntent lift friend into shade
+MovePersonIntent lift them into shade
+MovePersonIntent lift the person into shade
+MovePersonIntent lift the casualty into shade
+MovePersonIntent lift the friend into the shade
+MovePersonIntent lift my friend into the shade
+MovePersonIntent lift into the shade
+MovePersonIntent lift person into the shade
+MovePersonIntent lift casualty into the shade
+MovePersonIntent lift friend into the shade
+MovePersonIntent lift them into the shade
+MovePersonIntent lift the person into the shade
+MovePersonIntent lift the casualty into the shade
+MovePersonIntent lift the friend into the shade
+MovePersonIntent lift my friend into the shade
+MovePersonIntent get person out of the sun
+MovePersonIntent get casualty out of the sun
+MovePersonIntent get friend out of the sun
+MovePersonIntent get them out of the sun
+MovePersonIntent get the person out of the sun
+MovePersonIntent get the casualty out of the sun
+MovePersonIntent get the friend out of the sun
+MovePersonIntent get my friend out of the sun
+MovePersonIntent get into shade
+MovePersonIntent get person into shade
+MovePersonIntent get casualty into shade
+MovePersonIntent get friend into shade
+MovePersonIntent get them into shade
+MovePersonIntent get the person into shade
+MovePersonIntent get the casualty into shade
+MovePersonIntent get the friend into the shade
+MovePersonIntent get my friend into the shade
+MovePersonIntent get into the shade
+MovePersonIntent get person into the shade
+MovePersonIntent get casualty into the shade
+MovePersonIntent get friend into the shade
+MovePersonIntent get them into the shade
+MovePersonIntent get the person into the shade
+MovePersonIntent get the casualty into the shade
+MovePersonIntent get the friend into the shade
+MovePersonIntent get my friend into the shade
+MovePersonIntent Help him
+CheckResponseIntent Check for response
+CheckResponseIntent Try and talk to them
+CheckResponseIntent try and talk with them
+CheckResponseIntent try to talk to them
+CheckResponseIntent see if they are awake
+CheckResponseIntent see if they can hear you
+CheckResponseIntent try and speak to them
+CheckResponseIntent see if they can talk
+CheckResponseIntent call out their name
+CheckResponseIntent ask them if they know what day it is
+CheckResponseIntent ask them if they know their name
+CheckResponseIntent ask them if they know my name
+CheckResponseIntent ask them if they know where they are
+CheckResponseIntent ask them what happened
+CheckResponseIntent ask them are you ok
+CheckResponseIntent ask them to count to three
+CheckResponseIntent ask them if they can stand up
+CheckResponseIntent yell out their name
+CheckResponseIntent try talking to them
+CheckResponseIntent try waking them up
+CheckResponseIntent tap their feet
+CheckResponseIntent tap their face
+CheckResponseIntent say hey are you alright
+CheckResponseIntent see if there alright
+CheckResponseIntent see if they respond
+CheckResponseIntent try to get them to respond
+CheckResponseIntent try and wake them up
+CheckResponseIntent ask them if they want water
+CheckResponseIntent Check response
+CheckResponseIntent Call out name
+CheckResponseIntent squeeze their hand
+CheckResponseIntent Touch to see if they can respond
+CheckResponseIntent Open and close your eyes if you can hear me
+CheckResponseIntent Scream at them
+CheckResponseIntent Slap their face
+CheckResponseIntent Yes check for response
+CheckAirwayIntent Check airway is clear
+CheckAirwayIntent Look inside mouth
+CheckAirwayIntent Open their mouth and check
+CheckAirwayIntent tilt their head back and check their airway
+CheckAirwayIntent tilt their head back and check their mouth
+CheckAirwayIntent check if there is chewing gum in their mouth
+CheckAirwayIntent check if there is gum in their mouth
+CheckAirwayIntent have a look in their mouth
+CheckAirwayIntent have a look if their airway is clear
+CheckAirwayIntent check if there choking
+CheckAirwayIntent see if there choking
+CheckAirwayIntent see if they can breathe
+CheckAirwayIntent see if they can't breath
+CheckAirwayIntent see if there's something blocking
+CheckAirwayIntent see if there having trouble breathing
+CheckAirwayIntent See if there are objects in their mouth
+CheckAirwayIntent Shine a torch into their mouth
+CheckAirwayIntent Put your fingers in their mouth
+CheckAirwayIntent Check their airway
+CheckAirwayIntent Check airway
+CheckAirwayIntent Check airways
+CheckAirwayIntent Check their airway is clear
+CheckAirwayIntent Check his airway
+CheckAirwayIntent Check his airway is clear
+CheckAirwayIntent Check her airway
+CheckAirwayIntent Check her airway is clear
+CheckAirwayIntent Look their airway
+CheckAirwayIntent Look in their airway
+CheckAirwayIntent Look in their airways
+CheckAirwayIntent Check their airway is clear
+CheckAirwayIntent Check his airway
+CheckAirwayIntent Check his airway is clear
+CheckAirwayIntent Check her airway
+CheckAirwayIntent Check her airway is clear
+ClearAirwayIntent Get the chewing gum out
+ClearAirwayIntent Try and remove gum from their mouth
+ClearAirwayIntent Try to remove the chewing gum
+ClearAirwayIntent try removing the chewing gum
+ClearAirwayIntent try taking the gum out
+ClearAirwayIntent take the gum out
+ClearAirwayIntent use my hands to take the gum out
+ClearAirwayIntent use their hands to take the gum out
+ClearAirwayIntent remove the chewing gum from their mouth
+ClearAirwayIntent remove the chewing gum
+ClearAirwayIntent remove the gum
+ClearAirwayIntent Clear food with their fingers
+ClearAirwayIntent Remove food from their mouth
+ClearAirwayIntent take food from their mouth
+ClearAirwayIntent take food from their mouth
+ClearAirwayIntent Roll him to their side
+ClearAirwayIntent Move him to their side
+ClearAirwayIntent Turn him to their side
+ClearAirwayIntent Roll my friend to their side
+ClearAirwayIntent Move my friend to their side
+ClearAirwayIntent Turn my friend to their side
+ClearAirwayIntent Unblock airway
+ClearAirwayIntent Free airway
+ClearAirwayIntent Yes clear their airway
+ClearAirwayIntent get it out
+ClearAirwayIntent take it out
+ClearAirwayIntent remove it
+ClearAirwayIntent try and get it out
+ClearAirwayIntent try and remove it
+ClearAirwayIntent try and take it out
+ClearAirwayIntent clear it
+ClearAirwayIntent clear airway
+ClearAirwayIntent clear airways
+ClearAirwayIntent unblock their airway
+ClearAirwayIntent unblock their mouth
+ClearAirwayIntent clear their mouth
+CheckBreathingIntent Check breathing
+CheckBreathingIntent Check their breathing
+CheckBreathingIntent Check chest movement
+CheckBreathingIntent Check their chest movement
+CheckBreathingIntent Yes check chest movement
+CheckBreathingIntent check for breathing
+CheckBreathingIntent check to see if there breathing
+CheckBreathingIntent see if there breathing
+CheckBreathingIntent try and see if there breathing
+CheckBreathingIntent see if theyt are they breathing
+CheckBreathingIntent look if there breathing
+CheckBreathingIntent look to see if there breathing
+CheckBreathingIntent listen to see if there breathing
+CheckBreathingIntent listen to hear if there breathing
+CheckBreathingIntent check for breathing
+CheckBreathingIntent listen for breathing
+CheckBreathingIntent check to see if their chest is moving
+CheckBreathingIntent check if their chest is moving
+CheckBreathingIntent check if they are breathing
+CheckBreathingIntent feel for breathing
+CheckBreathingIntent feel for air movement
+CheckBreathingIntent put your hand in front of their mouth
+CheckBreathingIntent feel for breath
+CheckBreathingIntent check for breath
+StartCprIntent Do CPR
+StartCprIntent Start CPR
+StartCprIntent Give them the kiss of life
+StartCprIntent Start compression
+StartCprIntent Do chest compression
+StartCprIntent Start resuscitation
+StartCprIntent Resuscitate them
+StartCprIntent do compressions
+StartCprIntent do resusitation
+StartCprIntent pump the chest
+StartCprIntent Start compressions
+StartCprIntent Do chest compressions
+StartCprIntent thump their chest
+StartCprIntent start blowing into their mouth
+StartCprIntent blow their into their mouth
+StartCprIntent blow air into them
+StartCprIntent start breathing for them
+NoResponseIntent Leave person
+NoResponseIntent Leave casualty
+NoResponseIntent I do not know
+NoResponseIntent Leave the person on the ground
+NoResponseIntent Leave the casualty on the ground
+NoResponseIntent Do nothing
+NoResponseIntent No clue
+NoResponseIntent Cannot be bothered
+NoResponseIntent Leave them to die
+NoResponseIntent Just call for help
+NoResponseIntent Who cares
+NoResponseIntent Just stand there
+NoResponseIntent Not interested
+NoResponseIntent Let them die
+NoResponseIntent Kill them
+NoResponseIntent Walk away
+NoResponseIntent Ignore them
+NoResponseIntent Wait for help to arrive
+NoResponseIntent Talk to other friends
+NoResponseIntent Run away
+NoResponseIntent Freak out
+NoResponseIntent Start crying
+NoResponseIntent Get upset cause your friend is dying
+NoResponseIntent Go into shock
+NoResponseIntent what
+NoResponseIntent nope
+NoResponseIntent nah
+NoResponseIntent Call triple zero
+NoResponseIntent Call ambulance
+NoResponseIntent Call a friend
+NoResponseIntent Call my mom
+NoResponseIntent help me
+NoResponseIntent call emergency
+RepeatQuestion Say again
+RepeatQuestion Say that again
+RepeatQuestion Say that again please
+RepeatQuestion Can you repeat
+RepeatQuestion Can your repeat your question
+RepeatQuestion Repeat
+RepeatQuestion Repeat question
+RepeatQuestion What did you say
+RepeatQuestion What was that
+RepeatQuestion Repeat please
+RepeatQuestion Please repeat
+RepeatQuestion Can you say that again
+RepeatQuestion Sorry what was that
+RepeatQuestion what

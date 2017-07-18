@@ -1,0 +1,46 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "startOptions",
+          "type": "START_GAME"
+        }
+      ],
+      "intent": "StartGame"
+    },
+    {
+      "slots": [
+        {
+          "name": "selectPathOptions",
+          "type": "GAME_PATH"
+        }
+      ],
+      "intent": "CorrectPath"
+    },
+    {
+      "intent": "MovePersonIntent"
+    },
+    {
+      "intent": "CheckResponseIntent"
+    },
+    {
+      "intent": "CheckAirwayIntent"
+    },
+    {
+      "intent": "ClearAirwayIntent"
+    },
+    {
+      "intent": "CheckBreathingIntent"
+    },
+    {
+      "intent": "StartCprIntent"
+    },
+    {
+      "intent": "NoResponseIntent"
+    },
+    {
+      "intent": "RepeatQuestion"
+    }
+  ]
+}
